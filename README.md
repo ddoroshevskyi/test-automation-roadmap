@@ -354,6 +354,7 @@
   - 📖 Problem Solving with Algorithms and Data Structures Using Python - Miller B. N., Ranum D. N.
   - 📖 🔗 [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
   - 🔗 [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+  - 🔗 [Intermediate Python - Python Tips](https://book.pythontips.com/en/latest/index.html)
   - 🔗 [desugar](https://github.com/brettcannon/desugar/tree/main)
   - 🔗 [PyFlo](https://pyflo.net/)
   - 🔗 [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)
