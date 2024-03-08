@@ -179,7 +179,7 @@
   - 📺 [Object-Oriented Programming is Embarrassing: 4 Short Examples](https://youtu.be/IRTfhkiAqPw?si=PWNiQqZlqIvHhb9y)
 ## Python
 - [REPL](https://realpython.com/python-repl/#starting-and-ending-repl-interactive-sessions)
-- Віртуальне середовище (venv)
+- [Віртуальне середовище (venv)](https://www.bitecode.dev/p/relieving-your-python-packaging-pain)
 - Форматування коду
   - [PEP8](https://peps.python.org/pep-0008/)
   - [black](https://github.com/psf/black)
