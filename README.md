@@ -57,7 +57,7 @@
 - [REST API](https://www.ibm.com/topics/rest-apis)
 - Додаткові матеріали
   - 🔗 [HTTP | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-  - 📺 [The OSI Model by Example - The Backend Engineering Show with Hussein Nasser](https://youtu.be/IRTfhkiAqPw?si=PWNiQqZlqIvHhb9y)
+  - 📺 [The OSI Model by Example - The Backend Engineering Show with Hussein Nasser](https://youtu.be/eNF9z5JNl-A?si=GeBzTo1wWF_y_9Vn)
 ## Інфраструктура
 - Docker
   - docker run
